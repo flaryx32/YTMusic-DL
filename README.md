@@ -31,7 +31,7 @@ You also need to have `ffmpeg` installed and accessible via your system's `PATH`
 
     ```bash
     git clone https://github.com/flaryx32/YTMusic-DL.git
-    cd YoutubeMusicDownloader
+    cd YTMusic-DL
     ```
 
 2. Install the required Python libraries:
