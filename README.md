@@ -30,7 +30,7 @@ You also need to have `ffmpeg` installed and accessible via your system's `PATH`
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/flaryx32/YoutubeMusicDownloader.git
+    git clone https://github.com/flaryx32/YTMusic-DL.git
     cd YoutubeMusicDownloader
     ```
 
